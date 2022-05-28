@@ -23,7 +23,7 @@
             @endif
 
             <table class="table table-striped table-hover">
-                <tr>
+                <tr class="success">
                     <th>ID</th>
                     <th>NOMBRE</th>
                     <th>APELLIDO</th>
